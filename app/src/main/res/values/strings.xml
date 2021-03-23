@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppGasolinaOuAlcool</string>
+    <string name="consume_km_per_liter">Consumo (Km/litro)</string>
+    <string name="price">Preço do litro</string>
+    <string name="alcool">Álcool</string>
+    <string name="gasoline">Gasolina</string>
+    <string name="button">Calcular</string>
+
+    <string name="alcoolIsBetter">Alcool está compensando mais</string>
+    <string name="gasolineIsBetter">Gasolina está compensando mais</string>
+    <string name="bothIsEquals">Ambos estão compensando</string>
+
+</resources>
